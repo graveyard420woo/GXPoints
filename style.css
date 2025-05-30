@@ -249,3 +249,229 @@ input[type="button"], button {
     top: 2px;
     height: 27px;
 }
+
+		.confetti-piece:nth-child(6) {
+		  left: 10%;
+		  --confetti-color: #ed0677;
+		  --fall-duration: 3s;
+		}
+		.confetti-piece:nth-child(7) {
+		  left: 25%;
+		  --confetti-color: #871668;
+		  --fall-duration: 4s;
+		}
+		.confetti-piece:nth-child(8) {
+		  left: 40%;
+		  --confetti-color: #92278f;
+		  --fall-duration: 3.5s;
+		}
+		.confetti-piece:nth-child(9) {
+		  left: 60%;
+		  --confetti-color: #d80b8c;
+		  --fall-duration: 2.5s;
+		}
+		.confetti-piece:nth-child(10) {
+		  left: 80%;
+		  --confetti-color: #812990;
+		  --fall-duration: 2s;
+		}
+		.confetti-piece:nth-child(11) {
+		  left: 10%;
+		  --confetti-color: #ed0677;
+		  --fall-duration: 3s;
+		}
+		.confetti-piece:nth-child(12) {
+		  left: 25%;
+		  --confetti-color: #871668;
+		  --fall-duration: 4s;
+		}
+		.confetti-piece:nth-child(13) {
+		  left: 40%;
+		  --confetti-color: #92278f;
+		  --fall-duration: 3.5s;
+		}
+		.confetti-piece:nth-child(14) {
+		  left: 60%;
+		  --confetti-color: #d80b8c;
+		  --fall-duration: 2.5s;
+		}
+		.confetti-piece:nth-child(15) {
+		  left: 80%;
+		  --confetti-color: #812990;
+		  --fall-duration: 2s;
+		}
+		.confetti-piece:nth-child(16) {
+		  left: 10%;
+		  --confetti-color: #ed0677;
+		  --fall-duration: 3s;
+		}
+		.confetti-piece:nth-child(17) {
+		  left: 25%;
+		  --confetti-color: #871668;
+		  --fall-duration: 4s;
+		}
+		.confetti-piece:nth-child(18) {
+		  left: 40%;
+		  --confetti-color: #92278f;
+		  --fall-duration: 3.5s;
+		}
+		.confetti-piece:nth-child(19) {
+		  left: 60%;
+		  --confetti-color: #d80b8c;
+		  --fall-duration: 2.5s;
+		}
+		.confetti-piece:nth-child(20) {
+		  left: 80%;
+		  --confetti-color: #812990;
+		  --fall-duration: 2s;
+		}
+		.confetti-piece:nth-child(21) {
+		  left: 10%;
+		  --confetti-color: #ed0677;
+		  --fall-duration: 3s;
+		}
+		.confetti-piece:nth-child(22) {
+		  left: 25%;
+		  --confetti-color: #871668;
+		  --fall-duration: 4s;
+		}
+		.confetti-piece:nth-child(23) {
+		  left: 40%;
+		  --confetti-color: #92278f;
+		  --fall-duration: 3.5s;
+		}
+		.confetti-piece:nth-child(24) {
+		  left: 60%;
+		  --confetti-color: #d80b8c;
+		  --fall-duration: 2.5s;
+		}
+		.confetti-piece:nth-child(25) {
+		  left: 80%;
+		  --confetti-color: #812990;
+		  --fall-duration: 2s;
+		}
+		.confetti-piece:nth-child(26) {
+		  left: 10%;
+		  --confetti-color: #ed0677;
+		  --fall-duration: 3s;
+		}
+		.confetti-piece:nth-child(27) {
+		  left: 25%;
+		  --confetti-color: #871668;
+		  --fall-duration: 4s;
+		}
+		.confetti-piece:nth-child(28) {
+		  left: 40%;
+		  --confetti-color: #92278f;
+		  --fall-duration: 3.5s;
+		}
+		.confetti-piece:nth-child(29) {
+		  left: 60%;
+		  --confetti-color: #d80b8c;
+		  --fall-duration: 2.5s;
+		}
+		.confetti-piece:nth-child(30) {
+		  left: 80%;
+		  --confetti-color: #812990;
+		  --fall-duration: 2s;
+		}
+		.confetti-piece:nth-child(31) {
+		  left: 10%;
+		  --confetti-color: #ed0677;
+		  --fall-duration: 3s;
+		}
+		.confetti-piece:nth-child(32) {
+		  left: 25%;
+		  --confetti-color: #871668;
+		  --fall-duration: 4s;
+		}
+		.confetti-piece:nth-child(33) {
+		  left: 40%;
+		  --confetti-color: #92278f;
+		  --fall-duration: 3.5s;
+		}
+		.confetti-piece:nth-child(34) {
+		  left: 60%;
+		  --confetti-color: #d80b8c;
+		  --fall-duration: 2.5s;
+		}
+		.confetti-piece:nth-child(35) {
+		  left: 80%;
+		  --confetti-color: #812990;
+		  --fall-duration: 2s;
+		}
+		.confetti-piece:nth-child(36) {
+		  left: 10%;
+		  --confetti-color: #ed0677;
+		  --fall-duration: 3s;
+		}
+		.confetti-piece:nth-child(37) {
+		  left: 25%;
+		  --confetti-color: #871668;
+		  --fall-duration: 4s;
+		}
+		.confetti-piece:nth-child(38) {
+		  left: 40%;
+		  --confetti-color: #92278f;
+		  --fall-duration: 3.5s;
+		}
+		.confetti-piece:nth-child(39) {
+		  left: 60%;
+		  --confetti-color: #d80b8c;
+		  --fall-duration: 2.5s;
+		}
+		.confetti-piece:nth-child(40) {
+		  left: 80%;
+		  --confetti-color: #812990;
+		  --fall-duration: 2s;
+		}
+		.confetti-piece:nth-child(41) {
+		  left: 10%;
+		  --confetti-color: #ed0677;
+		  --fall-duration: 3s;
+		}
+		.confetti-piece:nth-child(42) {
+		  left: 25%;
+		  --confetti-color: #871668;
+		  --fall-duration: 4s;
+		}
+		.confetti-piece:nth-child(43) {
+		  left: 40%;
+		  --confetti-color: #92278f;
+		  --fall-duration: 3.5s;
+		}
+		.confetti-piece:nth-child(44) {
+		  left: 60%;
+		  --confetti-color: #d80b8c;
+		  --fall-duration: 2.5s;
+		}
+		.confetti-piece:nth-child(45) {
+		  left: 80%;
+		  --confetti-color: #812990;
+		  --fall-duration: 2s;
+		}
+		.confetti-piece:nth-child(46) {
+		  left: 10%;
+		  --confetti-color: #ed0677;
+		  --fall-duration: 3s;
+		}
+		.confetti-piece:nth-child(47) {
+		  left: 25%;
+		  --confetti-color: #871668;
+		  --fall-duration: 4s;
+		}
+		.confetti-piece:nth-child(48) {
+		  left: 40%;
+		  --confetti-color: #92278f;
+		  --fall-duration: 3.5s;
+		}
+		.confetti-piece:nth-child(49) {
+		  left: 60%;
+		  --confetti-color: #d80b8c;
+		  --fall-duration: 2.5s;
+		}
+		.confetti-piece:nth-child(50) {
+		  left: 80%;
+		  --confetti-color: #812990;
+		  --fall-duration: 2s;
+		}
