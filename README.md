@@ -25,7 +25,7 @@ Simply add it as a browser source by copying the URL after you connect your twit
 
 1920x1080 browser sources work best! the confetti effect scales based on the width of the browser source. So, slimmer browser sources will produce a more condensed stream of confetti! if this is the effect you want try an 800x600 browser source! if you want a wider bar of confetti in the popup, try wider browser sources like 1000px+
 
-I am an artist/tech. not a computer science major. my code is hacky but it works! if you would like to suggest edits, please do!
+I am an artist/tech. if you would like to suggest edits, please do!
 If this tool has helped you along you way, I am very pleased (; Huge ups to DX3006 for paving the way.
 
 -graveyard
